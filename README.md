@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy iMZ1982
 
-Soy un profesional enfocado en **identificar y conectar** con talento IT. 🚀  
+Soy un profesional enfocado en **identificar y conectar** con personas del mundo IT. 🚀  
 Busco personas apasionadas por la **tecnología** y el **desarrollo de software** que estén listas para afrontar **nuevos desafíos profesionales**.
 
 ---
