@@ -1,55 +1,50 @@
-# 👋 ¡Hola, soy @iMZ1982!
+# 👋 ¡Hola! Soy iMZ1982
 
-🚀 **¿Quién soy?**  
-Soy un **reclutador técnico apasionado** por conectar **ingenieros y desarrolladores** con proyectos innovadores y desafiantes en tecnologías modernas. Me especializo en oportunidades para expertos en **DevOps, Backend, Cloud y más**.
-
----
-
-## 👀 **¿En qué estoy interesado?**
-- 🚀 **Ayudar a desarrolladores** a crecer profesionalmente con proyectos **tecnológicamente punteros**.  
-- 🌐 Colaborar con **ingenieros talentosos** en roles de **DevOps, Cloud, Backend y Fullstack**.  
-- 📈 Seguir las últimas tendencias en **Kubernetes, GitHub Actions, Java, AWS y Terraform**.
+Soy un profesional enfocado en **identificar y conectar** con talento IT. 🚀  
+Busco personas apasionadas por la **tecnología** y el **desarrollo de software** que estén listas para afrontar **nuevos desafíos profesionales**.
 
 ---
 
-## 🌱 **Lo que estoy aprendiendo**
-- Profundizando en tecnologías **Cloud y DevOps** para entender mejor las necesidades de ingenieros técnicos.  
-- Explorando **Kubernetes** y herramientas CI/CD como **GitHub Actions**.  
-- Mejorando mis habilidades de **comunicación técnica** para conectar con equipos globales.
+## 🌍 ¿Qué perfiles busco?
+Busco todo tipo de perfiles dentro del **mundo tecnológico**:
+
+- **Frontend**: React, Angular, Vue.js, Svelte, TypeScript, HTML5, CSS3, Tailwind.
+- **Backend**: Java, Python, Node.js, Go, .NET, Spring Boot.
+- **Cloud y DevOps**: AWS, Azure, Google Cloud, Kubernetes, Docker, Terraform, Helm.
+- **Ciencia de Datos y Big Data**: Apache Spark, Kafka, Databricks, SQL, MongoDB.
+- **Mobile**: Flutter, SwiftUI, Kotlin, Jetpack Compose.
+- **IA/ML**: TensorFlow, PyTorch, Hugging Face, LangChain.
+- **Blockchain**: Solidity, Rust, Ethereum, Hyperledger.
+- **Testing y QA**: Selenium, Cypress, JUnit.
+- ¡Y muchos más! 🎯  
 
 ---
 
-## 🤝 **¿Buscas oportunidades o colaboraciones?**
-¡Me encantaría saber de ti! Si eres:  
-- 🔧 Un **ingeniero DevOps**, Backend, Fullstack, o especialista en Cloud.  
-- 💡 Un desarrollador apasionado por tecnologías como **Java, TypeScript, Helm, AWS o Kubernetes**.  
-- 🚀 Alguien que busca proyectos **remotos, híbridos o con tecnologías avanzadas**.
+## 💼 ¿Qué puedo ofrecerte?
 
-**Te ofrezco**:  
-- Oportunidades con **tarifas competitivas** y empresas de referencia.  
-- Proyectos en tecnologías **innovadoras y retadoras**.  
-- Comunicación clara y directa para hacer tu proceso **más eficiente**.
+- **Oportunidades laborales** en proyectos innovadores y desafiantes.  
+- Acceso a **clientes top** en sectores como **fintech, telecomunicaciones, retail y más**.  
+- Posiciones **remotas, híbridas o presenciales**, adaptadas a tu estilo de vida.  
+- **Colaboración directa** con empresas tecnológicas líderes.  
 
 ---
 
-## 📫 **¿Cómo puedes contactarme?**
-¡Conéctate conmigo aquí!:  
-- 📧 **imaestre@samanadiital.es**  
-- 🌐 **(https://www.linkedin.com/in/iñigo-maestre-zabaleta-6485b616/)**  
-- 💬 Deja un comentario en cualquiera de mis repositorios, ¡respondo rápido!  
+## 🚀 ¿Por qué conectar conmigo?
+Soy un puente entre **el talento y las grandes oportunidades**.  
+Te ayudaré a encontrar un **proyecto alineado a tus habilidades, intereses y expectativas**.  
+
+> 🤝 ¡Estoy aquí para **escucharte** y **apoyarte** en tu próximo paso profesional!
 
 ---
 
-## 🎯 **¿Qué encontrarás aquí?**
-1. 📂 **Repositorios con oportunidades técnicas**: Actualizo constantemente con proyectos abiertos en DevOps, Backend y Cloud.  
-2. 📚 **Recursos útiles**: Guías técnicas, artículos interesantes y tendencias en herramientas como **Kubernetes y Terraform**.  
-3. 🤝 **Oportunidades de colaboración**: Si quieres trabajar conmigo o contribuir a algo interesante, ¡te espero!
+## 📫 ¿Cómo contactarme?
+Si estás buscando un cambio o quieres explorar nuevas oportunidades, ¡hablemos!  
+
+- **LinkedIn**: www.linkedin.com/in/iñigo-maestre-zabaleta-6485b616/
+- **Correo**: imaestre@samanadigital.es 
+- **GitHub**: ¡Mándame un mensaje directo!  
 
 ---
 
-⚡ **Dato curioso**: Aunque no escribo código (¡todavía!), admiro profundamente el trabajo de los ingenieros y siempre estoy intentado aprender un poc más cada día. 
-
----
-
-🌟 **¡Hablemos y conectemos!** 🚀  
-Construyamos juntos el **futuro de la tecnología** con los mejores talentos y proyectos.
+⚡ **¿Conoces a alguien que esté en búsqueda de nuevos retos?**  
+¡No dudes en compartir mi perfil con ellos!
